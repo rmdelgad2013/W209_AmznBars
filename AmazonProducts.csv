@@ -1,24 +1,24 @@
-Name,Price
-Interactive Data Viz,39.71
-Bluetooth Ear Tips,9.99
-Pop up Greeting card,7.99
-Laundry Hamper,14.26
-Shoelaces,7
-Kitchen Trash Bags,5.24
-Melatonin,8.35
-Pixel 2 headphone adapter,19.99
-Replacement laptop keyboard,56.05
-4.4 lbs brown rice,34.82
-Dishwasher tablets,10.39
-Ethernet cable,7.49
-Dog poop bags,15.95
-Sensodyne toothpaste,14.76
-Deodorant 4 pk,16.38
-Garage door opener,24.5
-Massage Lacross Balls,9.99
-Levi's 541 Athletic fit jeans,54.99
-PopSockets Collapsible Grip & stand for phone,9.89
-Mastering PyCharm,35.99
-SQL Cookbook,33.29
-Angler broom & dust pan,19.99
-LED 40 Watt light bulbs,16.99
+Name,Price,Category,CategorySorted
+Interactive Data Viz,39.71,Books,1
+Mastering PyCharm,35.99,Books,2
+SQL Cookbook,33.29,Books,3
+Pop up Greeting card,7.99,Books,4
+Levi's 541 Athletic fit jeans,54.99,Clothing,5
+Replacement laptop keyboard,56.05,Electronics,6
+Pixel 2 headphone adapter,19.99,Electronics,7
+Bluetooth Ear Tips,9.99,Electronics,8
+PopSockets Collapsible Grip & stand for phone,9.89,Electronics,9
+4.4 lbs brown rice,34.82,Food,10
+Melatonin,8.35,Food,11
+Garage door opener,24.5,House Items,12
+Angler broom & dust pan,19.99,House Items,13
+LED 40 Watt light bulbs,16.99,House Items,14
+Deodorant 4 pk,16.38,House Items,15
+Dog poop bags,15.95,House Items,16
+Sensodyne toothpaste,14.76,House Items,17
+Laundry Hamper,14.26,House Items,18
+Dishwasher tablets,10.39,House Items,19
+Massage Lacross Balls,9.99,House Items,20
+Ethernet cable,7.49,House Items,21
+Shoelaces,7,House Items,22
+Kitchen Trash Bags,5.24,House Items,23
